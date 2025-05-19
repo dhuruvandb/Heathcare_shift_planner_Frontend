@@ -3,6 +3,7 @@ import globals from 'globals'
 import reactHooks from 'eslint-plugin-react-hooks'
 import reactRefresh from 'eslint-plugin-react-refresh'
 import tseslint from 'typescript-eslint'
+import reactRedux from 'eslint-plugin-react-redux'
 
 export default tseslint.config(
   { ignores: ['dist'] },
@@ -16,6 +17,7 @@ export default tseslint.config(
     plugins: {
       'react-hooks': reactHooks,
       'react-refresh': reactRefresh,
+      'react-redux': reactRedux
     },
     rules: {
       ...reactHooks.configs.recommended.rules,
@@ -23,6 +25,13 @@ export default tseslint.config(
         'warn',
         { allowConstantExport: true },
       ],
+      "react/prop-types": "off",
+      "@typescript-eslint/explicit-module-boundary-types": "off",
+      "react/react-in-jsx-scope": "off",
+      "react-redux/connect-prefer-named-arguments": 2,
+      "react-redux/mapDispatchToProps-prefer-shorthand": 2,
+      "react-redux/mapStateToProps-prefer-selectors": 2,
+      "react-redux/useSelector-prefer-selectors": 2
     },
   },
 )

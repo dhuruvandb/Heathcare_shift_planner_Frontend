@@ -1,0 +1,561 @@
+[
+  {
+    "name": "Dr. Asha Verma",
+    "staffId": "DOC1001",
+    "department": "Cardiology",
+    "role": "Doctor",
+    "shift": "Morning",
+    "email": "asha.m.cardiology@hospital.com",
+    "password": "hashed1"
+  },
+  {
+    "name": "Dr. Kunal Das",
+    "staffId": "DOC1002",
+    "department": "Cardiology",
+    "role": "Doctor",
+    "shift": "Afternoon",
+    "email": "kunal.a.cardiology@hospital.com",
+    "password": "hashed2"
+  },
+  {
+    "name": "Dr. Reena Roy",
+    "staffId": "DOC1003",
+    "department": "Cardiology",
+    "role": "Doctor",
+    "shift": "Night",
+    "email": "reena.n.cardiology@hospital.com",
+    "password": "hashed3"
+  },
+
+  {
+    "name": "Nurse Priya Sharma",
+    "staffId": "NUR2001",
+    "department": "Cardiology",
+    "role": "Nurse",
+    "shift": "Morning",
+    "email": "priya.m.cardiology@hospital.com",
+    "password": "hashed4"
+  },
+  {
+    "name": "Nurse Vikram Jha",
+    "staffId": "NUR2002",
+    "department": "Cardiology",
+    "role": "Nurse",
+    "shift": "Afternoon",
+    "email": "vikram.a.cardiology@hospital.com",
+    "password": "hashed5"
+  },
+  {
+    "name": "Nurse Meena Rai",
+    "staffId": "NUR2003",
+    "department": "Cardiology",
+    "role": "Nurse",
+    "shift": "Night",
+    "email": "meena.n.cardiology@hospital.com",
+    "password": "hashed6"
+  },
+
+  {
+    "name": "Ravi Menon",
+    "staffId": "TECH3001",
+    "department": "Cardiology",
+    "role": "Technician",
+    "shift": "Morning",
+    "email": "ravi.m.cardiology@hospital.com",
+    "password": "hashed7"
+  },
+  {
+    "name": "Ankit Saxena",
+    "staffId": "TECH3002",
+    "department": "Cardiology",
+    "role": "Technician",
+    "shift": "Afternoon",
+    "email": "ankit.a.cardiology@hospital.com",
+    "password": "hashed8"
+  },
+  {
+    "name": "Pallavi Joshi",
+    "staffId": "TECH3003",
+    "department": "Cardiology",
+    "role": "Technician",
+    "shift": "Night",
+    "email": "pallavi.n.cardiology@hospital.com",
+    "password": "hashed9"
+  },
+
+  {
+    "name": "Tanvi",
+    "staffId": "ADM5001",
+    "department": "Cardiology",
+    "role": "Admin Assistant",
+    "shift": "Morning",
+    "email": "tanvi.m.cardiology@hospital.com",
+    "password": "hashed10"
+  },
+  {
+    "name": "Saurabh Mishra",
+    "staffId": "ADM5002",
+    "department": "Cardiology",
+    "role": "Admin Assistant",
+    "shift": "Afternoon",
+    "email": "saurabh.a.cardiology@hospital.com",
+    "password": "hashed11"
+  },
+  {
+    "name": "Nikita Jain",
+    "staffId": "ADM5003",
+    "department": "Cardiology",
+    "role": "Admin Assistant",
+    "shift": "Night",
+    "email": "nikita.n.cardiology@hospital.com",
+    "password": "hashed12"
+  },
+
+  {
+    "name": "Dr. Neha Sood",
+    "staffId": "DOC1011",
+    "department": "Emergency",
+    "role": "Doctor",
+    "shift": "Morning",
+    "email": "neha.m.emergency@hospital.com",
+    "password": "hashed13"
+  },
+  {
+    "name": "Dr. Abhay Kumar",
+    "staffId": "DOC1012",
+    "department": "Emergency",
+    "role": "Doctor",
+    "shift": "Afternoon",
+    "email": "abhay.a.emergency@hospital.com",
+    "password": "hashed14"
+  },
+  {
+    "name": "Dr. Faria Sheikh",
+    "staffId": "DOC1013",
+    "department": "Emergency",
+    "role": "Doctor",
+    "shift": "Night",
+    "email": "faria.n.emergency@hospital.com",
+    "password": "hashed15"
+  },
+
+  {
+    "name": "Nurse Sunita Rao",
+    "staffId": "NUR2011",
+    "department": "Emergency",
+    "role": "Nurse",
+    "shift": "Morning",
+    "email": "sunita.m.emergency@hospital.com",
+    "password": "hashed16"
+  },
+  {
+    "name": "Nurse Rajiv Iyer",
+    "staffId": "NUR2012",
+    "department": "Emergency",
+    "role": "Nurse",
+    "shift": "Afternoon",
+    "email": "rajiv.a.emergency@hospital.com",
+    "password": "hashed17"
+  },
+  {
+    "name": "Nurse Beena Joseph",
+    "staffId": "NUR2013",
+    "department": "Emergency",
+    "role": "Nurse",
+    "shift": "Night",
+    "email": "beena.n.emergency@hospital.com",
+    "password": "hashed18"
+  },
+
+  {
+    "name": "Deepak Yadav",
+    "staffId": "TECH3011",
+    "department": "Emergency",
+    "role": "Technician",
+    "shift": "Morning",
+    "email": "deepak.m.emergency@hospital.com",
+    "password": "hashed19"
+  },
+  {
+    "name": "Nikhil Thakur",
+    "staffId": "TECH3012",
+    "department": "Emergency",
+    "role": "Technician",
+    "shift": "Afternoon",
+    "email": "nikhil.a.emergency@hospital.com",
+    "password": "hashed20"
+  },
+  {
+    "name": "Priti Mehta",
+    "staffId": "TECH3013",
+    "department": "Emergency",
+    "role": "Technician",
+    "shift": "Night",
+    "email": "priti.n.emergency@hospital.com",
+    "password": "hashed21"
+  },
+
+  {
+    "name": "Steve",
+    "staffId": "ADM5011",
+    "department": "Emergency",
+    "role": "Admin Assistant",
+    "shift": "Morning",
+    "email": "steve.m.emergency@hospital.com",
+    "password": "hashed22"
+  },
+  {
+    "name": "Sameer Khan",
+    "staffId": "ADM5012",
+    "department": "Emergency",
+    "role": "Admin Assistant",
+    "shift": "Afternoon",
+    "email": "sameer.a.emergency@hospital.com",
+    "password": "hashed23"
+  },
+  {
+    "name": "Lina D'Souza",
+    "staffId": "ADM5013",
+    "department": "Emergency",
+    "role": "Admin Assistant",
+    "shift": "Night",
+    "email": "lina.n.emergency@hospital.com",
+    "password": "hashed24"
+  },
+
+  {
+    "name": "Dr. Rohit Nair",
+    "staffId": "DOC1021",
+    "department": "ICU",
+    "role": "Doctor",
+    "shift": "Morning",
+    "email": "rohit.m.icu@hospital.com",
+    "password": "hashed25"
+  },
+  {
+    "name": "Dr. Sneha Tiwari",
+    "staffId": "DOC1022",
+    "department": "ICU",
+    "role": "Doctor",
+    "shift": "Afternoon",
+    "email": "sneha.a.icu@hospital.com",
+    "password": "hashed26"
+  },
+  {
+    "name": "Dr. Varun Seth",
+    "staffId": "DOC1023",
+    "department": "ICU",
+    "role": "Doctor",
+    "shift": "Night",
+    "email": "varun.n.icu@hospital.com",
+    "password": "hashed27"
+  },
+
+  {
+    "name": "Nurse Anjali Kapoor",
+    "staffId": "NUR2021",
+    "department": "ICU",
+    "role": "Nurse",
+    "shift": "Morning",
+    "email": "anjali.m.icu@hospital.com",
+    "password": "hashed28"
+  },
+  {
+    "name": "Nurse Rohit Roy",
+    "staffId": "NUR2022",
+    "department": "ICU",
+    "role": "Nurse",
+    "shift": "Afternoon",
+    "email": "rohit.a.icu@hospital.com",
+    "password": "hashed29"
+  },
+  {
+    "name": "Nurse Minal Jain",
+    "staffId": "NUR2023",
+    "department": "ICU",
+    "role": "Nurse",
+    "shift": "Night",
+    "email": "minal.n.icu@hospital.com",
+    "password": "hashed30"
+  },
+
+  {
+    "name": "Pooja Mishra",
+    "staffId": "TECH3021",
+    "department": "ICU",
+    "role": "Technician",
+    "shift": "Morning",
+    "email": "pooja.m.icu@hospital.com",
+    "password": "hashed31"
+  },
+  {
+    "name": "Sameer Ahuja",
+    "staffId": "TECH3022",
+    "department": "ICU",
+    "role": "Technician",
+    "shift": "Afternoon",
+    "email": "sameer.a.icu@hospital.com",
+    "password": "hashed32"
+  },
+  {
+    "name": "Anuja Vernekar",
+    "staffId": "TECH3023",
+    "department": "ICU",
+    "role": "Technician",
+    "shift": "Night",
+    "email": "anuja.n.icu@hospital.com",
+    "password": "hashed33"
+  },
+
+  {
+    "name": "Robo",
+    "staffId": "ADM5021",
+    "department": "ICU",
+    "role": "Admin Assistant",
+    "shift": "Morning",
+    "email": "robo.m.icu@hospital.com",
+    "password": "hashed34"
+  },
+  {
+    "name": "Tushar Sharma",
+    "staffId": "ADM5022",
+    "department": "ICU",
+    "role": "Admin Assistant",
+    "shift": "Afternoon",
+    "email": "tushar.a.icu@hospital.com",
+    "password": "hashed35"
+  },
+  {
+    "name": "Nancy Gupta",
+    "staffId": "ADM5023",
+    "department": "ICU",
+    "role": "Admin Assistant",
+    "shift": "Night",
+    "email": "nancy.n.icu@hospital.com",
+    "password": "hashed36"
+  },
+
+  {
+    "name": "Dr. Rakesh Mehra",
+    "staffId": "DOC1031",
+    "department": "Radiology",
+    "role": "Doctor",
+    "shift": "Morning",
+    "email": "rakesh.m.radiology@hospital.com",
+    "password": "hashed37"
+  },
+  {
+    "name": "Dr. Shruti Jain",
+    "staffId": "DOC1032",
+    "department": "Radiology",
+    "role": "Doctor",
+    "shift": "Afternoon",
+    "email": "shruti.a.radiology@hospital.com",
+    "password": "hashed38"
+  },
+  {
+    "name": "Dr. Nilesh Patil",
+    "staffId": "DOC1033",
+    "department": "Radiology",
+    "role": "Doctor",
+    "shift": "Night",
+    "email": "nilesh.n.radiology@hospital.com",
+    "password": "hashed39"
+  },
+
+  {
+    "name": "Nurse Kavita Desai",
+    "staffId": "NUR2031",
+    "department": "Radiology",
+    "role": "Nurse",
+    "shift": "Morning",
+    "email": "kavita.m.radiology@hospital.com",
+    "password": "hashed40"
+  },
+  {
+    "name": "Nurse Aman Singh",
+    "staffId": "NUR2032",
+    "department": "Radiology",
+    "role": "Nurse",
+    "shift": "Afternoon",
+    "email": "aman.a.radiology@hospital.com",
+    "password": "hashed41"
+  },
+  {
+    "name": "Nurse Tina Paul",
+    "staffId": "NUR2033",
+    "department": "Radiology",
+    "role": "Nurse",
+    "shift": "Night",
+    "email": "tina.n.radiology@hospital.com",
+    "password": "hashed42"
+  },
+
+  {
+    "name": "Amit Sinha",
+    "staffId": "TECH3031",
+    "department": "Radiology",
+    "role": "Technician",
+    "shift": "Morning",
+    "email": "amit.m.radiology@hospital.com",
+    "password": "hashed43"
+  },
+  {
+    "name": "Kritika Singh",
+    "staffId": "TECH3032",
+    "department": "Radiology",
+    "role": "Technician",
+    "shift": "Afternoon",
+    "email": "kritika.a.radiology@hospital.com",
+    "password": "hashed44"
+  },
+  {
+    "name": "Vikrant Chauhan",
+    "staffId": "TECH3033",
+    "department": "Radiology",
+    "role": "Technician",
+    "shift": "Night",
+    "email": "vikrant.n.radiology@hospital.com",
+    "password": "hashed45"
+  },
+
+  {
+    "name": "Kumar",
+    "staffId": "ADM5031",
+    "department": "Radiology",
+    "role": "Admin Assistant",
+    "shift": "Morning",
+    "email": "kumar.m.radiology@hospital.com",
+    "password": "hashed46"
+  },
+  {
+    "name": "Reshma Qureshi",
+    "staffId": "ADM5032",
+    "department": "Radiology",
+    "role": "Admin Assistant",
+    "shift": "Afternoon",
+    "email": "reshma.a.radiology@hospital.com",
+    "password": "hashed47"
+  },
+  {
+    "name": "George Mathew",
+    "staffId": "ADM5033",
+    "department": "Radiology",
+    "role": "Admin Assistant",
+    "shift": "Night",
+    "email": "george.n.radiology@hospital.com",
+    "password": "hashed48"
+  },
+
+  {
+    "name": "Dr. Sangeeta Rao",
+    "staffId": "DOC1041",
+    "department": "General Medicine",
+    "role": "Doctor",
+    "shift": "Morning",
+    "email": "sangeeta.m.genmed@hospital.com",
+    "password": "hashed49"
+  },
+  {
+    "name": "Dr. Mohit Rana",
+    "staffId": "DOC1042",
+    "department": "General Medicine",
+    "role": "Doctor",
+    "shift": "Afternoon",
+    "email": "mohit.a.genmed@hospital.com",
+    "password": "hashed50"
+  },
+  {
+    "name": "Dr. Alia Fernandes",
+    "staffId": "DOC1043",
+    "department": "General Medicine",
+    "role": "Doctor",
+    "shift": "Night",
+    "email": "alia.n.genmed@hospital.com",
+    "password": "hashed51"
+  },
+
+  {
+    "name": "Nurse Alok Verma",
+    "staffId": "NUR2041",
+    "department": "General Medicine",
+    "role": "Nurse",
+    "shift": "Morning",
+    "email": "alok.m.genmed@hospital.com",
+    "password": "hashed52"
+  },
+  {
+    "name": "Nurse Shalini Bhatt",
+    "staffId": "NUR2042",
+    "department": "General Medicine",
+    "role": "Nurse",
+    "shift": "Afternoon",
+    "email": "shalini.a.genmed@hospital.com",
+    "password": "hashed53"
+  },
+  {
+    "name": "Nurse Darshan Bhatia",
+    "staffId": "NUR2043",
+    "department": "General Medicine",
+    "role": "Nurse",
+    "shift": "Night",
+    "email": "darshan.n.genmed@hospital.com",
+    "password": "hashed54"
+  },
+
+  {
+    "name": "Sneha Bansal",
+    "staffId": "TECH3041",
+    "department": "General Medicine",
+    "role": "Technician",
+    "shift": "Morning",
+    "email": "sneha.m.genmed@hospital.com",
+    "password": "hashed55"
+  },
+  {
+    "name": "Ujjwal Yadav",
+    "staffId": "TECH3042",
+    "department": "General Medicine",
+    "role": "Technician",
+    "shift": "Afternoon",
+    "email": "ujjwal.a.genmed@hospital.com",
+    "password": "hashed56"
+  },
+  {
+    "name": "Disha Thakkar",
+    "staffId": "TECH3043",
+    "department": "General Medicine",
+    "role": "Technician",
+    "shift": "Night",
+    "email": "disha.n.genmed@hospital.com",
+    "password": "hashed57"
+  },
+
+  {
+    "name": "John",
+    "staffId": "ADM5041",
+    "department": "General Medicine",
+    "role": "Admin Assistant",
+    "shift": "Morning",
+    "email": "john.m.genmed@hospital.com",
+    "password": "hashed58"
+  },
+  {
+    "name": "Aarav Singh",
+    "staffId": "ADM5042",
+    "department": "General Medicine",
+    "role": "Admin Assistant",
+    "shift": "Afternoon",
+    "email": "aarav.a.genmed@hospital.com",
+    "password": "hashed59"
+  },
+  {
+    "name": "Laxmi Menon",
+    "staffId": "ADM5043",
+    "department": "General Medicine",
+    "role": "Admin Assistant",
+    "shift": "Night",
+    "email": "laxmi.n.genmed@hospital.com",
+    "password": "hashed60"
+  }
+]
