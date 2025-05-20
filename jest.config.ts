@@ -1,13 +1,11 @@
 import type { Config } from "@jest/types";
 
 const config: Config.InitialOptions = {
-  testEnvironment: "jest-environment-jsdom",
-  coverageReporters: ["text-summary", "html"],
-  setupFilesAfterEnv: ["<rootDir>/jest.setup.js"],
+  verbose: true,
   transform: {
-    "^.+\\.(ts|tsx|js|jsx)$": "babel-jest",
+    "^.+\\.tsx?$": "ts-jest",
   },
-  moduleFileExtensions: ["ts", "tsx", "js", "jsx", "json", "node"],
+  testEnvironment: "jsdom",
 };
 
 export default config;

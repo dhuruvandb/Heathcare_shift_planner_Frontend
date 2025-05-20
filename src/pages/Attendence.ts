@@ -1,5 +1,5 @@
 import React from "react";
-import type { AttendanceRecord } from "../Components/AttendanceForm";
+import type { AttendanceRecord } from "../Components/AttendanceList";
 import , {
   type AttendanceRecord,
 } from "../Components/AttendanceForm";

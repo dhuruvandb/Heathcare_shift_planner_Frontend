@@ -6,7 +6,9 @@
     "role": "Doctor",
     "shift": "Morning",
     "email": "asha.m.cardiology@hospital.com",
-    "password": "hashed1"
+    "password": "hashed1",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Dr. Kunal Das",
@@ -15,7 +17,9 @@
     "role": "Doctor",
     "shift": "Afternoon",
     "email": "kunal.a.cardiology@hospital.com",
-    "password": "hashed2"
+    "password": "hashed2",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Dr. Reena Roy",
@@ -24,7 +28,9 @@
     "role": "Doctor",
     "shift": "Night",
     "email": "reena.n.cardiology@hospital.com",
-    "password": "hashed3"
+    "password": "hashed3",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -34,7 +40,9 @@
     "role": "Nurse",
     "shift": "Morning",
     "email": "priya.m.cardiology@hospital.com",
-    "password": "hashed4"
+    "password": "hashed4",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Nurse Vikram Jha",
@@ -43,7 +51,9 @@
     "role": "Nurse",
     "shift": "Afternoon",
     "email": "vikram.a.cardiology@hospital.com",
-    "password": "hashed5"
+    "password": "hashed5",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Nurse Meena Rai",
@@ -52,7 +62,9 @@
     "role": "Nurse",
     "shift": "Night",
     "email": "meena.n.cardiology@hospital.com",
-    "password": "hashed6"
+    "password": "hashed6",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -62,7 +74,9 @@
     "role": "Technician",
     "shift": "Morning",
     "email": "ravi.m.cardiology@hospital.com",
-    "password": "hashed7"
+    "password": "hashed7",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Ankit Saxena",
@@ -71,7 +85,9 @@
     "role": "Technician",
     "shift": "Afternoon",
     "email": "ankit.a.cardiology@hospital.com",
-    "password": "hashed8"
+    "password": "hashed8",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Pallavi Joshi",
@@ -80,7 +96,9 @@
     "role": "Technician",
     "shift": "Night",
     "email": "pallavi.n.cardiology@hospital.com",
-    "password": "hashed9"
+    "password": "hashed9",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -90,7 +108,9 @@
     "role": "Admin Assistant",
     "shift": "Morning",
     "email": "tanvi.m.cardiology@hospital.com",
-    "password": "hashed10"
+    "password": "hashed10",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Saurabh Mishra",
@@ -99,7 +119,9 @@
     "role": "Admin Assistant",
     "shift": "Afternoon",
     "email": "saurabh.a.cardiology@hospital.com",
-    "password": "hashed11"
+    "password": "hashed11",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Nikita Jain",
@@ -108,7 +130,9 @@
     "role": "Admin Assistant",
     "shift": "Night",
     "email": "nikita.n.cardiology@hospital.com",
-    "password": "hashed12"
+    "password": "hashed12",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -118,7 +142,9 @@
     "role": "Doctor",
     "shift": "Morning",
     "email": "neha.m.emergency@hospital.com",
-    "password": "hashed13"
+    "password": "hashed13",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Dr. Abhay Kumar",
@@ -127,7 +153,9 @@
     "role": "Doctor",
     "shift": "Afternoon",
     "email": "abhay.a.emergency@hospital.com",
-    "password": "hashed14"
+    "password": "hashed14",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Dr. Faria Sheikh",
@@ -136,7 +164,9 @@
     "role": "Doctor",
     "shift": "Night",
     "email": "faria.n.emergency@hospital.com",
-    "password": "hashed15"
+    "password": "hashed15",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -146,7 +176,9 @@
     "role": "Nurse",
     "shift": "Morning",
     "email": "sunita.m.emergency@hospital.com",
-    "password": "hashed16"
+    "password": "hashed16",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Nurse Rajiv Iyer",
@@ -155,7 +187,9 @@
     "role": "Nurse",
     "shift": "Afternoon",
     "email": "rajiv.a.emergency@hospital.com",
-    "password": "hashed17"
+    "password": "hashed17",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Nurse Beena Joseph",
@@ -164,7 +198,9 @@
     "role": "Nurse",
     "shift": "Night",
     "email": "beena.n.emergency@hospital.com",
-    "password": "hashed18"
+    "password": "hashed18",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -174,7 +210,9 @@
     "role": "Technician",
     "shift": "Morning",
     "email": "deepak.m.emergency@hospital.com",
-    "password": "hashed19"
+    "password": "hashed19",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Nikhil Thakur",
@@ -183,7 +221,9 @@
     "role": "Technician",
     "shift": "Afternoon",
     "email": "nikhil.a.emergency@hospital.com",
-    "password": "hashed20"
+    "password": "hashed20",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Priti Mehta",
@@ -192,7 +232,9 @@
     "role": "Technician",
     "shift": "Night",
     "email": "priti.n.emergency@hospital.com",
-    "password": "hashed21"
+    "password": "hashed21",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -202,7 +244,9 @@
     "role": "Admin Assistant",
     "shift": "Morning",
     "email": "steve.m.emergency@hospital.com",
-    "password": "hashed22"
+    "password": "hashed22",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Sameer Khan",
@@ -211,7 +255,9 @@
     "role": "Admin Assistant",
     "shift": "Afternoon",
     "email": "sameer.a.emergency@hospital.com",
-    "password": "hashed23"
+    "password": "hashed23",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Lina D'Souza",
@@ -220,7 +266,9 @@
     "role": "Admin Assistant",
     "shift": "Night",
     "email": "lina.n.emergency@hospital.com",
-    "password": "hashed24"
+    "password": "hashed24",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -230,7 +278,9 @@
     "role": "Doctor",
     "shift": "Morning",
     "email": "rohit.m.icu@hospital.com",
-    "password": "hashed25"
+    "password": "hashed25",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Dr. Sneha Tiwari",
@@ -239,7 +289,9 @@
     "role": "Doctor",
     "shift": "Afternoon",
     "email": "sneha.a.icu@hospital.com",
-    "password": "hashed26"
+    "password": "hashed26",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Dr. Varun Seth",
@@ -248,7 +300,9 @@
     "role": "Doctor",
     "shift": "Night",
     "email": "varun.n.icu@hospital.com",
-    "password": "hashed27"
+    "password": "hashed27",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -258,7 +312,9 @@
     "role": "Nurse",
     "shift": "Morning",
     "email": "anjali.m.icu@hospital.com",
-    "password": "hashed28"
+    "password": "hashed28",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Nurse Rohit Roy",
@@ -267,7 +323,9 @@
     "role": "Nurse",
     "shift": "Afternoon",
     "email": "rohit.a.icu@hospital.com",
-    "password": "hashed29"
+    "password": "hashed29",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Nurse Minal Jain",
@@ -276,7 +334,9 @@
     "role": "Nurse",
     "shift": "Night",
     "email": "minal.n.icu@hospital.com",
-    "password": "hashed30"
+    "password": "hashed30",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -286,7 +346,9 @@
     "role": "Technician",
     "shift": "Morning",
     "email": "pooja.m.icu@hospital.com",
-    "password": "hashed31"
+    "password": "hashed31",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Sameer Ahuja",
@@ -295,7 +357,9 @@
     "role": "Technician",
     "shift": "Afternoon",
     "email": "sameer.a.icu@hospital.com",
-    "password": "hashed32"
+    "password": "hashed32",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Anuja Vernekar",
@@ -304,7 +368,9 @@
     "role": "Technician",
     "shift": "Night",
     "email": "anuja.n.icu@hospital.com",
-    "password": "hashed33"
+    "password": "hashed33",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -314,7 +380,9 @@
     "role": "Admin Assistant",
     "shift": "Morning",
     "email": "robo.m.icu@hospital.com",
-    "password": "hashed34"
+    "password": "hashed34",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Tushar Sharma",
@@ -323,7 +391,9 @@
     "role": "Admin Assistant",
     "shift": "Afternoon",
     "email": "tushar.a.icu@hospital.com",
-    "password": "hashed35"
+    "password": "hashed35",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Nancy Gupta",
@@ -332,7 +402,9 @@
     "role": "Admin Assistant",
     "shift": "Night",
     "email": "nancy.n.icu@hospital.com",
-    "password": "hashed36"
+    "password": "hashed36",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -342,7 +414,9 @@
     "role": "Doctor",
     "shift": "Morning",
     "email": "rakesh.m.radiology@hospital.com",
-    "password": "hashed37"
+    "password": "hashed37",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Dr. Shruti Jain",
@@ -351,7 +425,9 @@
     "role": "Doctor",
     "shift": "Afternoon",
     "email": "shruti.a.radiology@hospital.com",
-    "password": "hashed38"
+    "password": "hashed38",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Dr. Nilesh Patil",
@@ -360,7 +436,9 @@
     "role": "Doctor",
     "shift": "Night",
     "email": "nilesh.n.radiology@hospital.com",
-    "password": "hashed39"
+    "password": "hashed39",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -370,7 +448,9 @@
     "role": "Nurse",
     "shift": "Morning",
     "email": "kavita.m.radiology@hospital.com",
-    "password": "hashed40"
+    "password": "hashed40",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Nurse Aman Singh",
@@ -379,7 +459,9 @@
     "role": "Nurse",
     "shift": "Afternoon",
     "email": "aman.a.radiology@hospital.com",
-    "password": "hashed41"
+    "password": "hashed41",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Nurse Tina Paul",
@@ -388,7 +470,9 @@
     "role": "Nurse",
     "shift": "Night",
     "email": "tina.n.radiology@hospital.com",
-    "password": "hashed42"
+    "password": "hashed42",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -398,7 +482,9 @@
     "role": "Technician",
     "shift": "Morning",
     "email": "amit.m.radiology@hospital.com",
-    "password": "hashed43"
+    "password": "hashed43",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Kritika Singh",
@@ -407,7 +493,9 @@
     "role": "Technician",
     "shift": "Afternoon",
     "email": "kritika.a.radiology@hospital.com",
-    "password": "hashed44"
+    "password": "hashed44",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Vikrant Chauhan",
@@ -416,7 +504,9 @@
     "role": "Technician",
     "shift": "Night",
     "email": "vikrant.n.radiology@hospital.com",
-    "password": "hashed45"
+    "password": "hashed45",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -426,7 +516,9 @@
     "role": "Admin Assistant",
     "shift": "Morning",
     "email": "kumar.m.radiology@hospital.com",
-    "password": "hashed46"
+    "password": "hashed46",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Reshma Qureshi",
@@ -435,7 +527,9 @@
     "role": "Admin Assistant",
     "shift": "Afternoon",
     "email": "reshma.a.radiology@hospital.com",
-    "password": "hashed47"
+    "password": "hashed47",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "George Mathew",
@@ -444,7 +538,9 @@
     "role": "Admin Assistant",
     "shift": "Night",
     "email": "george.n.radiology@hospital.com",
-    "password": "hashed48"
+    "password": "hashed48",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -454,7 +550,9 @@
     "role": "Doctor",
     "shift": "Morning",
     "email": "sangeeta.m.genmed@hospital.com",
-    "password": "hashed49"
+    "password": "hashed49",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Dr. Mohit Rana",
@@ -463,7 +561,9 @@
     "role": "Doctor",
     "shift": "Afternoon",
     "email": "mohit.a.genmed@hospital.com",
-    "password": "hashed50"
+    "password": "hashed50",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Dr. Alia Fernandes",
@@ -472,7 +572,9 @@
     "role": "Doctor",
     "shift": "Night",
     "email": "alia.n.genmed@hospital.com",
-    "password": "hashed51"
+    "password": "hashed51",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -482,7 +584,9 @@
     "role": "Nurse",
     "shift": "Morning",
     "email": "alok.m.genmed@hospital.com",
-    "password": "hashed52"
+    "password": "hashed52",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Nurse Shalini Bhatt",
@@ -491,7 +595,9 @@
     "role": "Nurse",
     "shift": "Afternoon",
     "email": "shalini.a.genmed@hospital.com",
-    "password": "hashed53"
+    "password": "hashed53",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Nurse Darshan Bhatia",
@@ -500,7 +606,9 @@
     "role": "Nurse",
     "shift": "Night",
     "email": "darshan.n.genmed@hospital.com",
-    "password": "hashed54"
+    "password": "hashed54",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -510,7 +618,9 @@
     "role": "Technician",
     "shift": "Morning",
     "email": "sneha.m.genmed@hospital.com",
-    "password": "hashed55"
+    "password": "hashed55",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Ujjwal Yadav",
@@ -519,7 +629,9 @@
     "role": "Technician",
     "shift": "Afternoon",
     "email": "ujjwal.a.genmed@hospital.com",
-    "password": "hashed56"
+    "password": "hashed56",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Disha Thakkar",
@@ -528,7 +640,9 @@
     "role": "Technician",
     "shift": "Night",
     "email": "disha.n.genmed@hospital.com",
-    "password": "hashed57"
+    "password": "hashed57",
+    "date": "2025-05-19",
+    "status": "Present"
   },
 
   {
@@ -538,7 +652,9 @@
     "role": "Admin Assistant",
     "shift": "Morning",
     "email": "john.m.genmed@hospital.com",
-    "password": "hashed58"
+    "password": "hashed58",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Aarav Singh",
@@ -547,7 +663,9 @@
     "role": "Admin Assistant",
     "shift": "Afternoon",
     "email": "aarav.a.genmed@hospital.com",
-    "password": "hashed59"
+    "password": "hashed59",
+    "date": "2025-05-19",
+    "status": "Present"
   },
   {
     "name": "Laxmi Menon",
@@ -556,6 +674,8 @@
     "role": "Admin Assistant",
     "shift": "Night",
     "email": "laxmi.n.genmed@hospital.com",
-    "password": "hashed60"
+    "password": "hashed60",
+    "date": "2025-05-19",
+    "status": "Present"
   }
 ]
